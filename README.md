@@ -1,7 +1,7 @@
 # Placing-multiple-AR-models-SwiftUI-RealityKit
 AR model with a cube and a sphere placed
 # The first part
-![IMG_1220](https://github.com/S-way520/Placing-multiple-AR-models-SwiftUI-RealityKit/assets/95877651/cbaea7f7-dcfb-4d74-987d-63f577cd4881)
+![IMG_1231](https://github.com/S-way520/Placing-multiple-AR-models-SwiftUI-RealityKit/assets/95877651/68dc7f0b-e4d0-4c76-8eb2-7b9dd99f6765)
 # The sceond part
 Code file 1
 ```swift
